@@ -1,0 +1,17 @@
+TASK2
+
+/*
+Crea un file lab2.c e spostalo nella cartella “Task2” (se non c’è creala)
+Crea un semplice ciclo in C che mostra i primi 10 numeri pari.
+compila il file lab2.c
+esegui il file eseguibile ottenuto
+cancella tutto lasciando solo il file lab2.c
+crea un Makefile per automatizzare il processo di compilazione, esecuzione e cleaning
+*/
+
+cd .. (torno in Assignment2)
+mkdir Task2
+cd Task2 && touch lab2.c
+code lab2.c
+cd ..
+rm lab2

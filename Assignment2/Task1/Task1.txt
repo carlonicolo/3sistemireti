@@ -1,0 +1,17 @@
+TASK1
+
+/*
+Crea la cartella “Task1” all’interno di /home/Assignment2.
+Spostati nella cartella appena creata Task1 e crea il file lab1.txt.
+Scrivi all’interno del file lab1.txt utilizzando il comando echo
+*/
+
+pwd (per vedere dive mi trovo aperto il terminale sono in home)
+mkdir Assignment2
+cd Assignment2
+mkdir Task1
+cd Task1&&touch lab1.txt
+echo "Mi trovo nel lab1" > lab1.txt
+cat lab1 (leggo il contenuto di lab1.txt)
+clear
+

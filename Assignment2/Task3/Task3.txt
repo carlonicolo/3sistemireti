@@ -1,0 +1,11 @@
+TASK 3
+
+/*
+crea la cartella “Task3” all’interno di Assignment2
+spostati nella cartella Task3 e crea un file lab3.asm all’interno del quale inserirai i comandi utili per simulare un’addizione in linguaggio assembler
+*/
+
+cd ..
+mkdir Task3
+cd Task3 && touch lab3.asm
+code lab3.asm
